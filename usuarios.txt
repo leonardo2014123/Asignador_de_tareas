@@ -1,0 +1,14 @@
+Usuario: alison, Correo: alison@gmail.com, Tipo: Administrador
+Usuario: leo, Correo: leo@gmail.com, Tipo: Normal
+Usuario: kenny, Correo: kenny@gmail.com, Tipo: Normal
+Usuario: cris, Correo: cris@gmail.com, Tipo: Administrador
+Usuario: lili, Correo: lili@gmail.com, Tipo: Normal
+Usuario: lola, Correo: lola@gmail.com, Tipo: Normal
+Usuario: lisa, Correo: lisa@gmail.com, Tipo: Normal
+Usuario: brenda, Correo: brenda@gmail.com, Tipo: Normal
+Usuario: alan, Correo: alan@gmail.com, Tipo: Normal
+Usuario: ricardo, Correo: ricardo@gmail.com, Tipo: Administrador
+Usuario: dylan, Correo: dylan@gmail.com, Tipo: Administrador
+Usuario: kevin, Correo: kevin@gmail.com, Tipo: Normal
+Usuario: joel, Correo: joel@gmail.com, Tipo: Normal
+Usuario: ken, Correo: ken@gmail.com, Tipo: Normal

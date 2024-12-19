@@ -1,0 +1,1000 @@
+Usuario: leo
+Nombre de la tarea: Escritura de reportes 
+Descripción: TSO
+Prioridad: Media
+Estado: Por hacer
+Fecha de inicio: 22/12/2024
+Hora de inicio: 09:00
+Fecha de fin: 22/12/2024
+Hora de fin: 10:00
+---------------------------
+Usuario: lili
+Nombre de la tarea: Revisión de código
+Descripción: Análisis de datos
+Prioridad: Alta
+Estado: En progreso
+Fecha de inicio: 21/12/2024
+Hora de inicio: 12:00
+Fecha de fin: 21/12/2024
+Hora de fin: 17:00
+---------------------------
+Usuario: lola
+Nombre de la tarea: Taller de programación
+Descripción: Diseño de interfaz
+Prioridad: Alta
+Estado: Por hacer
+Fecha de inicio: 13/12/2024
+Hora de inicio: 10:00
+Fecha de fin: 13/12/2024
+Hora de fin: 14:00
+---------------------------
+Usuario: alan
+Nombre de la tarea: Escritura de reportes
+Descripción: Limpieza de software
+Prioridad: Media
+Estado: Por hacer
+Fecha de inicio: 15/12/2024
+Hora de inicio: 10:00
+Fecha de fin: 15/12/2024
+Hora de fin: 16:00
+---------------------------
+Usuario: lili
+Nombre de la tarea: Limpieza de software
+Descripción: Reunión con equipo
+Prioridad: Media
+Estado: Por hacer
+Fecha de inicio: 22/12/2024
+Hora de inicio: 09:00
+Fecha de fin: 22/12/2024
+Hora de fin: 10:00
+---------------------------
+Usuario: lola
+Nombre de la tarea: Actualización del sistema
+Descripción: Documentación
+Prioridad: Media
+Estado: Completada
+Fecha de inicio: 14/12/2024
+Hora de inicio: 09:00
+Fecha de fin: 14/12/2024
+Hora de fin: 13:00
+---------------------------
+Usuario: lili
+Nombre de la tarea: Actualización del sistema
+Descripción: Análisis de datos
+Prioridad: Baja
+Estado: Completada
+Fecha de inicio: 13/12/2024
+Hora de inicio: 09:00
+Fecha de fin: 13/12/2024
+Hora de fin: 12:00
+---------------------------
+Usuario: lili
+Nombre de la tarea: Revisión de código
+Descripción: Diseño de interfaz
+Prioridad: Alta
+Estado: Completada
+Fecha de inicio: 21/12/2024
+Hora de inicio: 13:00
+Fecha de fin: 21/12/2024
+Hora de fin: 19:00
+---------------------------
+Usuario: brenda
+Nombre de la tarea: Revisión de código
+Descripción: Gestor de tareas
+Prioridad: Media
+Estado: En progreso
+Fecha de inicio: 17/12/2024
+Hora de inicio: 14:00
+Fecha de fin: 17/12/2024
+Hora de fin: 19:00
+---------------------------
+Usuario: kevin
+Nombre de la tarea: Diseño web
+Descripción: Limpieza de software
+Prioridad: Alta
+Estado: Completada
+Fecha de inicio: 21/12/2024
+Hora de inicio: 15:00
+Fecha de fin: 21/12/2024
+Hora de fin: 22:00
+---------------------------
+Usuario: kenny
+Nombre de la tarea: Diseño web
+Descripción: Documentación
+Prioridad: Media
+Estado: Por hacer
+Fecha de inicio: 20/12/2024
+Hora de inicio: 14:00
+Fecha de fin: 20/12/2024
+Hora de fin: 19:00
+---------------------------
+Usuario: kenny
+Nombre de la tarea: Elaboración de presentaciones
+Descripción: TSO
+Prioridad: Baja
+Estado: Completada
+Fecha de inicio: 21/12/2024
+Hora de inicio: 08:00
+Fecha de fin: 21/12/2024
+Hora de fin: 11:00
+---------------------------
+Usuario: alan
+Nombre de la tarea: Elaboración de presentaciones
+Descripción: Limpieza de software
+Prioridad: Alta
+Estado: Completada
+Fecha de inicio: 14/12/2024
+Hora de inicio: 14:00
+Fecha de fin: 14/12/2024
+Hora de fin: 20:00
+---------------------------
+Usuario: brenda
+Nombre de la tarea: Taller de programación
+Descripción: Reunión con equipo
+Prioridad: Alta
+Estado: Completada
+Fecha de inicio: 15/12/2024
+Hora de inicio: 12:00
+Fecha de fin: 15/12/2024
+Hora de fin: 15:00
+---------------------------
+Usuario: lisa
+Nombre de la tarea: Limpieza de software
+Descripción: Diseño de interfaz
+Prioridad: Media
+Estado: Completada
+Fecha de inicio: 14/12/2024
+Hora de inicio: 10:00
+Fecha de fin: 14/12/2024
+Hora de fin: 13:00
+---------------------------
+Usuario: kevin
+Nombre de la tarea: Diseño web
+Descripción: Análisis de datos
+Prioridad: Baja
+Estado: Completada
+Fecha de inicio: 16/12/2024
+Hora de inicio: 11:00
+Fecha de fin: 16/12/2024
+Hora de fin: 17:00
+---------------------------
+Usuario: leo
+Nombre de la tarea: Elaboración de presentaciones
+Descripción: Limpieza de software
+Prioridad: Alta
+Estado: Por hacer
+Fecha de inicio: 20/12/2024
+Hora de inicio: 08:00
+Fecha de fin: 20/12/2024
+Hora de fin: 14:00
+---------------------------
+Usuario: leo
+Nombre de la tarea: Taller de programación
+Descripción: TSO
+Prioridad: Baja
+Estado: Completada
+Fecha de inicio: 20/12/2024
+Hora de inicio: 13:00
+Fecha de fin: 20/12/2024
+Hora de fin: 21:00
+---------------------------
+Usuario: brenda
+Nombre de la tarea: Limpieza de software
+Descripción: Limpieza de software
+Prioridad: Media
+Estado: En progreso
+Fecha de inicio: 18/12/2024
+Hora de inicio: 08:00
+Fecha de fin: 18/12/2024
+Hora de fin: 09:00
+---------------------------
+Usuario: kenny
+Nombre de la tarea: Actualización del sistema
+Descripción: Gestor de tareas
+Prioridad: Media
+Estado: En progreso
+Fecha de inicio: 14/12/2024
+Hora de inicio: 12:00
+Fecha de fin: 14/12/2024
+Hora de fin: 20:00
+---------------------------
+Usuario: lili
+Nombre de la tarea: Elaboración de presentaciones
+Descripción: Limpieza de software
+Prioridad: Alta
+Estado: Por hacer
+Fecha de inicio: 19/12/2024
+Hora de inicio: 13:00
+Fecha de fin: 19/12/2024
+Hora de fin: 16:00
+---------------------------
+Usuario: lisa
+Nombre de la tarea: Taller de programación
+Descripción: Reunión con equipo
+Prioridad: Media
+Estado: En progreso
+Fecha de inicio: 12/12/2024
+Hora de inicio: 12:00
+Fecha de fin: 12/12/2024
+Hora de fin: 19:00
+---------------------------
+Usuario: kenny
+Nombre de la tarea: Actualización del sistema
+Descripción: Reunión con equipo
+Prioridad: Media
+Estado: Completada
+Fecha de inicio: 21/12/2024
+Hora de inicio: 09:00
+Fecha de fin: 21/12/2024
+Hora de fin: 13:00
+---------------------------
+Usuario: lola
+Nombre de la tarea: Limpieza de software
+Descripción: TSO
+Prioridad: Baja
+Estado: Completada
+Fecha de inicio: 14/12/2024
+Hora de inicio: 10:00
+Fecha de fin: 14/12/2024
+Hora de fin: 14:00
+---------------------------
+Usuario: lola
+Nombre de la tarea: Diseño web
+Descripción: Análisis de datos
+Prioridad: Alta
+Estado: Completada
+Fecha de inicio: 20/12/2024
+Hora de inicio: 12:00
+Fecha de fin: 20/12/2024
+Hora de fin: 18:00
+---------------------------
+Usuario: alan
+Nombre de la tarea: Elaboración de presentaciones
+Descripción: TSO
+Prioridad: Alta
+Estado: Completada
+Fecha de inicio: 15/12/2024
+Hora de inicio: 15:00
+Fecha de fin: 15/12/2024
+Hora de fin: 23:00
+---------------------------
+Usuario: kenny
+Nombre de la tarea: Limpieza de software
+Descripción: Limpieza de software
+Prioridad: Baja
+Estado: En progreso
+Fecha de inicio: 18/12/2024
+Hora de inicio: 15:00
+Fecha de fin: 18/12/2024
+Hora de fin: 22:00
+---------------------------
+Usuario: lili
+Nombre de la tarea: Diseño web
+Descripción: Reunión con equipo
+Prioridad: Media
+Estado: En progreso
+Fecha de inicio: 22/12/2024
+Hora de inicio: 10:00
+Fecha de fin: 22/12/2024
+Hora de fin: 12:00
+---------------------------
+Usuario: lisa
+Nombre de la tarea: Elaboración de presentaciones
+Descripción: TSO
+Prioridad: Media
+Estado: Por hacer
+Fecha de inicio: 17/12/2024
+Hora de inicio: 12:00
+Fecha de fin: 17/12/2024
+Hora de fin: 17:00
+---------------------------
+Usuario: lili
+Nombre de la tarea: Escritura de reportes
+Descripción: Análisis de datos
+Prioridad: Baja
+Estado: Completada
+Fecha de inicio: 20/12/2024
+Hora de inicio: 12:00
+Fecha de fin: 20/12/2024
+Hora de fin: 19:00
+---------------------------
+Usuario: lola
+Nombre de la tarea: Escritura de reportes
+Descripción: Pruebas de software
+Prioridad: Media
+Estado: Por hacer
+Fecha de inicio: 15/12/2024
+Hora de inicio: 13:00
+Fecha de fin: 15/12/2024
+Hora de fin: 21:00
+---------------------------
+Usuario: alan
+Nombre de la tarea: Escritura de reportes
+Descripción: Documentación
+Prioridad: Alta
+Estado: Por hacer
+Fecha de inicio: 13/12/2024
+Hora de inicio: 11:00
+Fecha de fin: 13/12/2024
+Hora de fin: 15:00
+---------------------------
+Usuario: lola
+Nombre de la tarea: Revisión de código
+Descripción: Limpieza de software
+Prioridad: Media
+Estado: Completada
+Fecha de inicio: 22/12/2024
+Hora de inicio: 11:00
+Fecha de fin: 22/12/2024
+Hora de fin: 19:00
+---------------------------
+Usuario: kevin
+Nombre de la tarea: Escritura de reportes
+Descripción: Análisis de datos
+Prioridad: Media
+Estado: Completada
+Fecha de inicio: 22/12/2024
+Hora de inicio: 11:00
+Fecha de fin: 22/12/2024
+Hora de fin: 19:00
+---------------------------
+Usuario: alan
+Nombre de la tarea: Optimización de consultas
+Descripción: Pruebas de software
+Prioridad: Media
+Estado: En progreso
+Fecha de inicio: 18/12/2024
+Hora de inicio: 08:00
+Fecha de fin: 18/12/2024
+Hora de fin: 10:00
+---------------------------
+Usuario: lisa
+Nombre de la tarea: Optimización de consultas
+Descripción: Reunión con equipo
+Prioridad: Alta
+Estado: Por hacer
+Fecha de inicio: 19/12/2024
+Hora de inicio: 08:00
+Fecha de fin: 19/12/2024
+Hora de fin: 16:00
+---------------------------
+Usuario: lisa
+Nombre de la tarea: Escritura de reportes
+Descripción: Análisis de datos
+Prioridad: Alta
+Estado: Completada
+Fecha de inicio: 12/12/2024
+Hora de inicio: 11:00
+Fecha de fin: 12/12/2024
+Hora de fin: 15:00
+---------------------------
+Usuario: lisa
+Nombre de la tarea: Taller de programación
+Descripción: Gestor de tareas
+Prioridad: Baja
+Estado: Completada
+Fecha de inicio: 18/12/2024
+Hora de inicio: 13:00
+Fecha de fin: 18/12/2024
+Hora de fin: 16:00
+---------------------------
+Usuario: kenny
+Nombre de la tarea: Revisión de código
+Descripción: Gestor de tareas
+Prioridad: Alta
+Estado: Completada
+Fecha de inicio: 19/12/2024
+Hora de inicio: 12:00
+Fecha de fin: 19/12/2024
+Hora de fin: 18:00
+---------------------------
+Usuario: lola
+Nombre de la tarea: Diseño web
+Descripción: Limpieza de software
+Prioridad: Baja
+Estado: Por hacer
+Fecha de inicio: 13/12/2024
+Hora de inicio: 13:00
+Fecha de fin: 13/12/2024
+Hora de fin: 15:00
+---------------------------
+Usuario: kenny
+Nombre de la tarea: Revisión de código
+Descripción: Diseño de interfaz
+Prioridad: Baja
+Estado: Completada
+Fecha de inicio: 13/12/2024
+Hora de inicio: 11:00
+Fecha de fin: 13/12/2024
+Hora de fin: 16:00
+---------------------------
+Usuario: kevin
+Nombre de la tarea: Limpieza de software
+Descripción: Gestor de tareas
+Prioridad: Baja
+Estado: Completada
+Fecha de inicio: 20/12/2024
+Hora de inicio: 12:00
+Fecha de fin: 20/12/2024
+Hora de fin: 15:00
+---------------------------
+Usuario: lisa
+Nombre de la tarea: Diseño web
+Descripción: Gestor de tareas
+Prioridad: Baja
+Estado: Por hacer
+Fecha de inicio: 12/12/2024
+Hora de inicio: 14:00
+Fecha de fin: 12/12/2024
+Hora de fin: 22:00
+---------------------------
+Usuario: kenny
+Nombre de la tarea: Limpieza de software
+Descripción: TSO
+Prioridad: Alta
+Estado: En progreso
+Fecha de inicio: 22/12/2024
+Hora de inicio: 11:00
+Fecha de fin: 22/12/2024
+Hora de fin: 17:00
+---------------------------
+Usuario: lisa
+Nombre de la tarea: Actualización del sistema
+Descripción: Pruebas de software
+Prioridad: Alta
+Estado: Por hacer
+Fecha de inicio: 17/12/2024
+Hora de inicio: 09:00
+Fecha de fin: 17/12/2024
+Hora de fin: 15:00
+---------------------------
+Usuario: leo
+Nombre de la tarea: Taller de programación
+Descripción: Documentación
+Prioridad: Media
+Estado: Completada
+Fecha de inicio: 15/12/2024
+Hora de inicio: 12:00
+Fecha de fin: 15/12/2024
+Hora de fin: 15:00
+---------------------------
+Usuario: kenny
+Nombre de la tarea: Limpieza de software
+Descripción: TSO
+Prioridad: Media
+Estado: Completada
+Fecha de inicio: 17/12/2024
+Hora de inicio: 14:00
+Fecha de fin: 17/12/2024
+Hora de fin: 18:00
+---------------------------
+Usuario: lola
+Nombre de la tarea: Optimización de consultas
+Descripción: Pruebas de software
+Prioridad: Alta
+Estado: Completada
+Fecha de inicio: 14/12/2024
+Hora de inicio: 08:00
+Fecha de fin: 14/12/2024
+Hora de fin: 16:00
+---------------------------
+Usuario: lili
+Nombre de la tarea: Elaboración de presentaciones
+Descripción: Limpieza de software
+Prioridad: Media
+Estado: Por hacer
+Fecha de inicio: 17/12/2024
+Hora de inicio: 11:00
+Fecha de fin: 17/12/2024
+Hora de fin: 13:00
+---------------------------
+Usuario: lili
+Nombre de la tarea: Elaboración de presentaciones
+Descripción: Gestor de tareas
+Prioridad: Media
+Estado: Por hacer
+Fecha de inicio: 14/12/2024
+Hora de inicio: 09:00
+Fecha de fin: 14/12/2024
+Hora de fin: 17:00
+---------------------------
+Usuario: brenda
+Nombre de la tarea: Elaboración de presentaciones
+Descripción: TSO
+Prioridad: Baja
+Estado: En progreso
+Fecha de inicio: 16/12/2024
+Hora de inicio: 15:00
+Fecha de fin: 16/12/2024
+Hora de fin: 22:00
+---------------------------
+Usuario: lili
+Nombre de la tarea: Elaboración de presentaciones
+Descripción: Limpieza de software
+Prioridad: Media
+Estado: Por hacer
+Fecha de inicio: 20/12/2024
+Hora de inicio: 10:00
+Fecha de fin: 20/12/2024
+Hora de fin: 15:00
+---------------------------
+Usuario: kenny
+Nombre de la tarea: Elaboración de presentaciones
+Descripción: Reunión con equipo
+Prioridad: Baja
+Estado: Completada
+Fecha de inicio: 16/12/2024
+Hora de inicio: 10:00
+Fecha de fin: 16/12/2024
+Hora de fin: 14:00
+---------------------------
+Usuario: brenda
+Nombre de la tarea: Revisión de código
+Descripción: Reunión con equipo
+Prioridad: Media
+Estado: Completada
+Fecha de inicio: 19/12/2024
+Hora de inicio: 08:00
+Fecha de fin: 19/12/2024
+Hora de fin: 12:00
+---------------------------
+Usuario: kevin
+Nombre de la tarea: Optimización de consultas
+Descripción: Gestor de tareas
+Prioridad: Baja
+Estado: En progreso
+Fecha de inicio: 16/12/2024
+Hora de inicio: 15:00
+Fecha de fin: 16/12/2024
+Hora de fin: 23:00
+---------------------------
+Usuario: alan
+Nombre de la tarea: Revisión de código
+Descripción: Análisis de datos
+Prioridad: Baja
+Estado: Completada
+Fecha de inicio: 15/12/2024
+Hora de inicio: 13:00
+Fecha de fin: 15/12/2024
+Hora de fin: 14:00
+---------------------------
+Usuario: lili
+Nombre de la tarea: Taller de programación
+Descripción: Reunión con equipo
+Prioridad: Media
+Estado: Por hacer
+Fecha de inicio: 20/12/2024
+Hora de inicio: 15:00
+Fecha de fin: 20/12/2024
+Hora de fin: 23:00
+---------------------------
+Usuario: lola
+Nombre de la tarea: Limpieza de software
+Descripción: Análisis de datos
+Prioridad: Alta
+Estado: En progreso
+Fecha de inicio: 20/12/2024
+Hora de inicio: 11:00
+Fecha de fin: 20/12/2024
+Hora de fin: 18:00
+---------------------------
+Usuario: kevin
+Nombre de la tarea: Actualización del sistema
+Descripción: Análisis de datos
+Prioridad: Media
+Estado: Por hacer
+Fecha de inicio: 15/12/2024
+Hora de inicio: 10:00
+Fecha de fin: 15/12/2024
+Hora de fin: 15:00
+---------------------------
+Usuario: lisa
+Nombre de la tarea: Escritura de reportes
+Descripción: Documentación
+Prioridad: Media
+Estado: Completada
+Fecha de inicio: 20/12/2024
+Hora de inicio: 13:00
+Fecha de fin: 20/12/2024
+Hora de fin: 15:00
+---------------------------
+Usuario: lola
+Nombre de la tarea: Actualización del sistema
+Descripción: Limpieza de software
+Prioridad: Media
+Estado: Por hacer
+Fecha de inicio: 17/12/2024
+Hora de inicio: 12:00
+Fecha de fin: 17/12/2024
+Hora de fin: 14:00
+---------------------------
+Usuario: kevin
+Nombre de la tarea: Elaboración de presentaciones
+Descripción: Análisis de datos
+Prioridad: Alta
+Estado: Por hacer
+Fecha de inicio: 15/12/2024
+Hora de inicio: 10:00
+Fecha de fin: 15/12/2024
+Hora de fin: 11:00
+---------------------------
+Usuario: kenny
+Nombre de la tarea: Taller de programación
+Descripción: Análisis de datos
+Prioridad: Media
+Estado: En progreso
+Fecha de inicio: 15/12/2024
+Hora de inicio: 15:00
+Fecha de fin: 15/12/2024
+Hora de fin: 22:00
+---------------------------
+Usuario: alan
+Nombre de la tarea: Limpieza de software
+Descripción: Análisis de datos
+Prioridad: Baja
+Estado: Por hacer
+Fecha de inicio: 14/12/2024
+Hora de inicio: 08:00
+Fecha de fin: 14/12/2024
+Hora de fin: 11:00
+---------------------------
+Usuario: alan
+Nombre de la tarea: Escritura de reportes
+Descripción: Gestor de tareas
+Prioridad: Alta
+Estado: Completada
+Fecha de inicio: 21/12/2024
+Hora de inicio: 09:00
+Fecha de fin: 21/12/2024
+Hora de fin: 10:00
+---------------------------
+Usuario: lili
+Nombre de la tarea: Optimización de consultas
+Descripción: Documentación
+Prioridad: Baja
+Estado: En progreso
+Fecha de inicio: 14/12/2024
+Hora de inicio: 13:00
+Fecha de fin: 14/12/2024
+Hora de fin: 20:00
+---------------------------
+Usuario: lola
+Nombre de la tarea: Taller de programación
+Descripción: Reunión con equipo
+Prioridad: Baja
+Estado: Completada
+Fecha de inicio: 17/12/2024
+Hora de inicio: 10:00
+Fecha de fin: 17/12/2024
+Hora de fin: 16:00
+---------------------------
+Usuario: lili
+Nombre de la tarea: Escritura de reportes
+Descripción: Documentación
+Prioridad: Media
+Estado: Completada
+Fecha de inicio: 19/12/2024
+Hora de inicio: 12:00
+Fecha de fin: 19/12/2024
+Hora de fin: 16:00
+---------------------------
+Usuario: lili
+Nombre de la tarea: Actualización del sistema
+Descripción: TSO
+Prioridad: Media
+Estado: Completada
+Fecha de inicio: 16/12/2024
+Hora de inicio: 12:00
+Fecha de fin: 16/12/2024
+Hora de fin: 18:00
+---------------------------
+Usuario: lola
+Nombre de la tarea: Optimización de consultas
+Descripción: Limpieza de software
+Prioridad: Media
+Estado: Por hacer
+Fecha de inicio: 22/12/2024
+Hora de inicio: 12:00
+Fecha de fin: 22/12/2024
+Hora de fin: 19:00
+---------------------------
+Usuario: brenda
+Nombre de la tarea: Optimización de consultas
+Descripción: TSO
+Prioridad: Alta
+Estado: Por hacer
+Fecha de inicio: 17/12/2024
+Hora de inicio: 09:00
+Fecha de fin: 17/12/2024
+Hora de fin: 11:00
+---------------------------
+Usuario: lili
+Nombre de la tarea: Taller de programación
+Descripción: Gestor de tareas
+Prioridad: Alta
+Estado: En progreso
+Fecha de inicio: 20/12/2024
+Hora de inicio: 15:00
+Fecha de fin: 20/12/2024
+Hora de fin: 16:00
+---------------------------
+Usuario: brenda
+Nombre de la tarea: Revisión de código
+Descripción: Documentación
+Prioridad: Media
+Estado: Completada
+Fecha de inicio: 16/12/2024
+Hora de inicio: 08:00
+Fecha de fin: 16/12/2024
+Hora de fin: 14:00
+---------------------------
+Usuario: alan
+Nombre de la tarea: Limpieza de software
+Descripción: Reunión con equipo
+Prioridad: Alta
+Estado: Por hacer
+Fecha de inicio: 22/12/2024
+Hora de inicio: 15:00
+Fecha de fin: 22/12/2024
+Hora de fin: 20:00
+---------------------------
+Usuario: kevin
+Nombre de la tarea: Diseño web
+Descripción: TSO
+Prioridad: Baja
+Estado: Por hacer
+Fecha de inicio: 12/12/2024
+Hora de inicio: 14:00
+Fecha de fin: 12/12/2024
+Hora de fin: 20:00
+---------------------------
+Usuario: alan
+Nombre de la tarea: Revisión de código
+Descripción: Limpieza de software
+Prioridad: Media
+Estado: Por hacer
+Fecha de inicio: 13/12/2024
+Hora de inicio: 14:00
+Fecha de fin: 13/12/2024
+Hora de fin: 16:00
+---------------------------
+Usuario: leo
+Nombre de la tarea: Elaboración de presentaciones
+Descripción: Limpieza de software
+Prioridad: Baja
+Estado: Por hacer
+Fecha de inicio: 20/12/2024
+Hora de inicio: 08:00
+Fecha de fin: 20/12/2024
+Hora de fin: 09:00
+---------------------------
+Usuario: lola
+Nombre de la tarea: Limpieza de software
+Descripción: Limpieza de software
+Prioridad: Media
+Estado: Por hacer
+Fecha de inicio: 21/12/2024
+Hora de inicio: 10:00
+Fecha de fin: 21/12/2024
+Hora de fin: 16:00
+---------------------------
+Usuario: leo
+Nombre de la tarea: Diseño web
+Descripción: Limpieza de software
+Prioridad: Baja
+Estado: En progreso
+Fecha de inicio: 17/12/2024
+Hora de inicio: 15:00
+Fecha de fin: 17/12/2024
+Hora de fin: 22:00
+---------------------------
+Usuario: lisa
+Nombre de la tarea: Escritura de reportes
+Descripción: Gestor de tareas
+Prioridad: Media
+Estado: En progreso
+Fecha de inicio: 17/12/2024
+Hora de inicio: 10:00
+Fecha de fin: 17/12/2024
+Hora de fin: 15:00
+---------------------------
+Usuario: alan
+Nombre de la tarea: Actualización del sistema
+Descripción: Documentación
+Prioridad: Alta
+Estado: En progreso
+Fecha de inicio: 16/12/2024
+Hora de inicio: 12:00
+Fecha de fin: 16/12/2024
+Hora de fin: 20:00
+---------------------------
+Usuario: lisa
+Nombre de la tarea: Revisión de código
+Descripción: Limpieza de software
+Prioridad: Baja
+Estado: Por hacer
+Fecha de inicio: 13/12/2024
+Hora de inicio: 13:00
+Fecha de fin: 13/12/2024
+Hora de fin: 17:00
+---------------------------
+Usuario: lili
+Nombre de la tarea: Taller de programación
+Descripción: Reunión con equipo
+Prioridad: Media
+Estado: En progreso
+Fecha de inicio: 13/12/2024
+Hora de inicio: 08:00
+Fecha de fin: 13/12/2024
+Hora de fin: 14:00
+---------------------------
+Usuario: kenny
+Nombre de la tarea: Revisión de código
+Descripción: TSO
+Prioridad: Baja
+Estado: Por hacer
+Fecha de inicio: 16/12/2024
+Hora de inicio: 13:00
+Fecha de fin: 16/12/2024
+Hora de fin: 14:00
+---------------------------
+Usuario: alan
+Nombre de la tarea: Escritura de reportes
+Descripción: Análisis de datos
+Prioridad: Alta
+Estado: Por hacer
+Fecha de inicio: 15/12/2024
+Hora de inicio: 11:00
+Fecha de fin: 15/12/2024
+Hora de fin: 13:00
+---------------------------
+Usuario: lisa
+Nombre de la tarea: Taller de programación
+Descripción: Pruebas de software
+Prioridad: Baja
+Estado: En progreso
+Fecha de inicio: 21/12/2024
+Hora de inicio: 08:00
+Fecha de fin: 21/12/2024
+Hora de fin: 14:00
+---------------------------
+Usuario: brenda
+Nombre de la tarea: Optimización de consultas
+Descripción: TSO
+Prioridad: Baja
+Estado: En progreso
+Fecha de inicio: 12/12/2024
+Hora de inicio: 10:00
+Fecha de fin: 12/12/2024
+Hora de fin: 13:00
+---------------------------
+Usuario: lola
+Nombre de la tarea: Actualización del sistema
+Descripción: Análisis de datos
+Prioridad: Alta
+Estado: Completada
+Fecha de inicio: 12/12/2024
+Hora de inicio: 09:00
+Fecha de fin: 12/12/2024
+Hora de fin: 10:00
+---------------------------
+Usuario: lola
+Nombre de la tarea: Limpieza de software
+Descripción: Diseño de interfaz
+Prioridad: Alta
+Estado: En progreso
+Fecha de inicio: 20/12/2024
+Hora de inicio: 11:00
+Fecha de fin: 20/12/2024
+Hora de fin: 15:00
+---------------------------
+Usuario: kenny
+Nombre de la tarea: Taller de programación
+Descripción: TSO
+Prioridad: Media
+Estado: En progreso
+Fecha de inicio: 16/12/2024
+Hora de inicio: 14:00
+Fecha de fin: 16/12/2024
+Hora de fin: 20:00
+---------------------------
+Usuario: alan
+Nombre de la tarea: Revisión de código
+Descripción: Reunión con equipo
+Prioridad: Alta
+Estado: En progreso
+Fecha de inicio: 14/12/2024
+Hora de inicio: 12:00
+Fecha de fin: 14/12/2024
+Hora de fin: 17:00
+---------------------------
+Usuario: kevin
+Nombre de la tarea: Diseño web
+Descripción: Pruebas de software
+Prioridad: Baja
+Estado: En progreso
+Fecha de inicio: 18/12/2024
+Hora de inicio: 08:00
+Fecha de fin: 18/12/2024
+Hora de fin: 12:00
+---------------------------
+Usuario: brenda
+Nombre de la tarea: Limpieza de software
+Descripción: Gestor de tareas
+Prioridad: Alta
+Estado: Completada
+Fecha de inicio: 20/12/2024
+Hora de inicio: 13:00
+Fecha de fin: 20/12/2024
+Hora de fin: 19:00
+---------------------------
+Usuario: kenny
+Nombre de la tarea: Elaboración de presentaciones
+Descripción: Pruebas de software
+Prioridad: Media
+Estado: Completada
+Fecha de inicio: 14/12/2024
+Hora de inicio: 08:00
+Fecha de fin: 14/12/2024
+Hora de fin: 14:00
+---------------------------
+Usuario: lili
+Nombre de la tarea: Limpieza de software
+Descripción: Reunión con equipo
+Prioridad: Baja
+Estado: Completada
+Fecha de inicio: 14/12/2024
+Hora de inicio: 14:00
+Fecha de fin: 14/12/2024
+Hora de fin: 18:00
+---------------------------
+Usuario: brenda
+Nombre de la tarea: Optimización de consultas
+Descripción: Gestor de tareas
+Prioridad: Media
+Estado: En progreso
+Fecha de inicio: 15/12/2024
+Hora de inicio: 12:00
+Fecha de fin: 15/12/2024
+Hora de fin: 19:00
+---------------------------
+Usuario: alan
+Nombre de la tarea: Limpieza de software
+Descripción: TSO
+Prioridad: Alta
+Estado: Por hacer
+Fecha de inicio: 12/12/2024
+Hora de inicio: 12:00
+Fecha de fin: 12/12/2024
+Hora de fin: 18:00
+---------------------------
+Usuario: lola
+Nombre de la tarea: Taller de programación
+Descripción: Diseño de interfaz
+Prioridad: Alta
+Estado: En progreso
+Fecha de inicio: 18/12/2024
+Hora de inicio: 13:00
+Fecha de fin: 18/12/2024
+Hora de fin: 18:00
+---------------------------
+Usuario: kevin
+Nombre de la tarea: Taller de programación
+Descripción: TSO
+Prioridad: Media
+Estado: Completada
+Fecha de inicio: 14/12/2024
+Hora de inicio: 11:00
+Fecha de fin: 14/12/2024
+Hora de fin: 19:00
+---------------------------
+Usuario: lili
+Nombre de la tarea: Limpieza de software
+Descripción: Reunión con equipo
+Prioridad: Media
+Estado: En progreso
+Fecha de inicio: 14/12/2024
+Hora de inicio: 11:00
+Fecha de fin: 14/12/2024
+Hora de fin: 19:00
+---------------------------
