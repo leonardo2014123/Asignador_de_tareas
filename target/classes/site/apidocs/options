@@ -1,0 +1,26 @@
+-classpath
+'C:/Users/nagha/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE220/AbsoluteLayout-RELEASE220.jar;C:/Users/nagha/.m2/repository/io/github/gzaccaroni/smartparking/backend-parking-slot/1.0.0/backend-parking-slot-1.0.0.jar;C:/Users/nagha/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.21/kotlin-stdlib-jdk8-1.8.21.jar;C:/Users/nagha/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib/1.8.21/kotlin-stdlib-1.8.21.jar;C:/Users/nagha/.m2/repository/org/jetbrains/annotations/13.0/annotations-13.0.jar;C:/Users/nagha/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.21/kotlin-stdlib-jdk7-1.8.21.jar;C:/Users/nagha/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-common/1.7.0/kotlin-stdlib-common-1.7.0.jar;C:/Users/nagha/.m2/repository/com/baremaps/baremaps-config/0.5.14/baremaps-config-0.5.14.jar;C:/Users/nagha/.m2/repository/com/baremaps/baremaps-blob/0.5.14/baremaps-blob-0.5.14.jar;C:/Users/nagha/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.12.1/jackson-databind-2.12.1.jar;C:/Users/nagha/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.12.1/jackson-annotations-2.12.1.jar;C:/Users/nagha/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.12.1/jackson-core-2.12.1.jar;C:/Users/nagha/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.12.1/jackson-datatype-jdk8-2.12.1.jar;C:/Users/nagha/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.12.1/jackson-dataformat-yaml-2.12.1.jar;C:/Users/nagha/.m2/repository/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar;C:/Users/nagha/.m2/repository/com/google/protobuf/protobuf-java/3.16.0/protobuf-java-3.16.0.jar;C:/Users/nagha/.m2/repository/com/google/guava/guava/30.1.1-jre/guava-30.1.1-jre.jar;C:/Users/nagha/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar;C:/Users/nagha/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:/Users/nagha/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar;C:/Users/nagha/.m2/repository/org/checkerframework/checker-qual/3.8.0/checker-qual-3.8.0.jar;C:/Users/nagha/.m2/repository/com/google/errorprone/error_prone_annotations/2.5.1/error_prone_annotations-2.5.1.jar;C:/Users/nagha/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar;C:/Users/nagha/.m2/repository/org/locationtech/jts/jts-core/1.18.1/jts-core-1.18.1.jar;C:/Users/nagha/.m2/repository/io/projectreactor/reactor-core/3.4.6/reactor-core-3.4.6.jar;C:/Users/nagha/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar;C:/Users/nagha/.m2/repository/org/locationtech/proj4j/proj4j/1.1.2/proj4j-1.1.2.jar;C:/Users/nagha/.m2/repository/org/apache/commons/commons-compress/1.19/commons-compress-1.19.jar;C:/Users/nagha/.m2/repository/org/apache/logging/log4j/log4j-api/2.14.0/log4j-api-2.14.0.jar;C:/Users/nagha/.m2/repository/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar;C:/Users/nagha/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'13'
+-sourcepath
+'C:/Users/nagha/Documents/NetBeansProjects/asignador_de_tareas1.7.version final/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/nagha/Documents/NetBeansProjects/asignador_de_tareas1.7.version final/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'asignador_de_tareas1.7 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/13/docs/api' 'C:/Users/nagha/Documents/NetBeansProjects/asignador_de_tareas1.7.version final/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'asignador_de_tareas1.7 1.0-SNAPSHOT API'
